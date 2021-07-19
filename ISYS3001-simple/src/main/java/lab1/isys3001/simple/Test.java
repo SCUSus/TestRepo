@@ -7,6 +7,7 @@ package lab1.isys3001.simple;
 
 /**
  * Empty class for testing
+ * (minor change made)
  * @author Susanne
  */
 public class Test {
